@@ -129,7 +129,7 @@ class _LandingPageState extends State<LandingPage> {
                                   color: Colors.amber,
                                   width: MediaQuery.of(context).size.width,
                                   height: 50,
-                                  child: ListView.builder( 
+                                  child: ListView.builder(
                                     padding: EdgeInsets.zero,
                                     shrinkWrap: true,
                                     scrollDirection: Axis.horizontal,
@@ -147,7 +147,7 @@ class _LandingPageState extends State<LandingPage> {
                                               splashColor:
                                                   Colors.red, // Splash color
                                               onTap: () {},
-                                              child: SizedBox(
+                                              child: const SizedBox(
                                                 width: 56,
                                                 height: 56,
                                                 child: Icon(Icons.menu),
