@@ -20,7 +20,7 @@ class _LandingPageState extends State<LandingPage> {
               alignment: Alignment.topCenter,
               child: Container(
                 width: MediaQuery.of(context).size.width,
-                height: MediaQuery.of(context).size.height / 2.9,
+                height: MediaQuery.of(context).size.height / 3.8,
                 decoration: BoxDecoration(
                   gradient: LinearGradient(
                     colors: [
@@ -119,16 +119,17 @@ class _LandingPageState extends State<LandingPage> {
                             padding: const EdgeInsets.symmetric(horizontal: 15),
                             child: Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [ 
+                              children: [
                                 const Padding(
                                   padding: EdgeInsets.only(top: 0),
                                   child: Text("Categories"),
                                 ),
                                 SizedBox(height: 5),
                                 Container(
+                                  color: Colors.amber,
                                   width: MediaQuery.of(context).size.width,
                                   height: 50,
-                                  child: ListView.builder(
+                                  child: ListView.builder( 
                                     padding: EdgeInsets.zero,
                                     shrinkWrap: true,
                                     scrollDirection: Axis.horizontal,
@@ -175,9 +176,7 @@ class _LandingPageState extends State<LandingPage> {
                                     itemCount: 5,
                                     itemBuilder: (context, index) {
                                       return Column(
-                                        children: [
-                                          
-                                        ],
+                                        children: [],
                                       );
                                     },
                                   ),
@@ -218,7 +217,7 @@ class _LandingPageState extends State<LandingPage> {
               child: Center(
                 child: Container(
                   width: MediaQuery.of(context).size.width,
-                  height: 10,
+                  height: 30,
                   decoration: BoxDecoration(
                     gradient: LinearGradient(
                       colors: [
