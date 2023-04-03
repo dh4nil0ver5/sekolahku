@@ -72,6 +72,7 @@ MERGED from [:cloud_firestore] D:\sekolahku\build\cloud_firestore\intermediates\
 MERGED from [:firebase_core] D:\sekolahku\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:google_sign_in_android] D:\sekolahku\build\google_sign_in_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:flutter_native_splash] D:\sekolahku\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\nurch\.gradle\caches\transforms-3\6dc4083b7c7580f433cecdbc41323bd2\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\nurch\.gradle\caches\transforms-3\0131fc0741f18b1316f82d5c3c63e061\transformed\jetified-firebase-analytics-ktx-21.2.0\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] C:\Users\nurch\.gradle\caches\transforms-3\837b5870c528a17c1501b7838aef8d1a\transformed\jetified-firebase-common-ktx-20.3.1\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nurch\.gradle\caches\transforms-3\c640cbfc810dab2cae3c3f076d329b8c\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
@@ -156,6 +157,8 @@ MERGED from [:google_sign_in_android] D:\sekolahku\build\google_sign_in_android\
 MERGED from [:google_sign_in_android] D:\sekolahku\build\google_sign_in_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_native_splash] D:\sekolahku\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_native_splash] D:\sekolahku\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\nurch\.gradle\caches\transforms-3\6dc4083b7c7580f433cecdbc41323bd2\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\nurch\.gradle\caches\transforms-3\6dc4083b7c7580f433cecdbc41323bd2\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\nurch\.gradle\caches\transforms-3\0131fc0741f18b1316f82d5c3c63e061\transformed\jetified-firebase-analytics-ktx-21.2.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\nurch\.gradle\caches\transforms-3\0131fc0741f18b1316f82d5c3c63e061\transformed\jetified-firebase-analytics-ktx-21.2.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:20.3.1] C:\Users\nurch\.gradle\caches\transforms-3\837b5870c528a17c1501b7838aef8d1a\transformed\jetified-firebase-common-ktx-20.3.1\AndroidManifest.xml:5:5-7:41
