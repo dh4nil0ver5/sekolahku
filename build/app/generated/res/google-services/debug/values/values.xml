@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">469371191227-p45j7e16uri6oq089vj29s74tlmvqp7l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">469371191227</string>
+    <string name="google_api_key" translatable="false">AIzaSyDDfw152l5JPBNaEhlRsy1VV77UJzWTXjs</string>
+    <string name="google_app_id" translatable="false">1:469371191227:android:1aa90f88918ec202264e9e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDfw152l5JPBNaEhlRsy1VV77UJzWTXjs</string>
+    <string name="google_storage_bucket" translatable="false">sekolahku-9e4b7.appspot.com</string>
+    <string name="project_id" translatable="false">sekolahku-9e4b7</string>
+</resources>

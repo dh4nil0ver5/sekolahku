@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469371191227",
+    "project_id": "sekolahku-9e4b7",
+    "storage_bucket": "sekolahku-9e4b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469371191227:android:1aa90f88918ec202264e9e",
+        "android_client_info": {
+          "package_name": "com.example.sekolahku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469371191227-4dt1ni7pl23dr4a9mdj6ac1ekl584u84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sekolahku",
+            "certificate_hash": "c942cb5d079e08d46b6c40df5771c7e196b92795"
+          }
+        },
+        {
+          "client_id": "469371191227-p45j7e16uri6oq089vj29s74tlmvqp7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfw152l5JPBNaEhlRsy1VV77UJzWTXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469371191227-p45j7e16uri6oq089vj29s74tlmvqp7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
